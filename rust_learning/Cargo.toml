@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "basics",
+    "ownership",
+    "collections",
+    "error_handling",
+    "advanced_features",   
+    "basics_runner"
+]
