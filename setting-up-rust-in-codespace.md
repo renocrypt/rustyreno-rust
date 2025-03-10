@@ -20,7 +20,7 @@ This downloads a script and starts the installation. If successful, you'll see:
 Rust is installed now. Great!
 ```
 
-Remember to restart your shell or run the command shown in the installation output to update your PATH variables.[1][3]
+Remember to restart your shell or run the command shown in the installation output to update your PATH variables.
 
 ### On Windows
 
@@ -28,7 +28,7 @@ Remember to restart your shell or run the command shown in the installation outp
 2. Run the installer
 3. Follow the on-screen instructions
 
-After installation, the console will display a success message.[1][3]
+After installation, the console will display a success message.
 
 ### Verifying Installation
 
@@ -92,7 +92,7 @@ This configuration:
 - Installs essential VS Code extensions for Rust development
 - Adds the clippy linter and rustfmt formatter[4][6]
 
-## Creating Your First Rust Project
+## Creating a Rust Project
 
 Once your environment is set up, you can create your first Rust project:
 
