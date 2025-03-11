@@ -1,6 +1,16 @@
 [package]
-name = "intermediate-rust"
+name = "rust-learning"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
+[[bin]]
+name = "basic_structs"
+path = "src/bin/basic_structs.rs"
+
+[[bin]]
+name = "derive_debug"
+path = "src/bin/derive_debug.rs"
+
+[[bin]]
+name = "traits_example"
+path = "src/bin/traits_example.rs"
